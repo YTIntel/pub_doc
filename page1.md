@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Me
-rank: 1
+rank: 3
 ---
 Yay
